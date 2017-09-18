@@ -10,7 +10,7 @@ public class ExemplosGit {
 	}
 
 	public static void hello(){
-		System.out.print("Hello GitHub");
+		System.out.print("Hello GitHub - Alanis");
 	}
 	
 }
